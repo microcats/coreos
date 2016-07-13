@@ -1,0 +1,10 @@
+#!/bin/bash
+
+HOSTNAME="hostname"
+DNS=8.8.8.8
+GATEWAY=192.168.0.1
+PRIVATE_IPV4=192.168.0.10
+
+TIMEZONE=Asia/Seoul
+DEVICE="/dev/sda"
+CHANNEL=stable
