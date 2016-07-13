@@ -1,5 +1,5 @@
 # CoreOS etcd2 Cluster
-Kubernetes에서 사용할 ectd2 key/value store 서버를 구성하기 위한 CoreOS 설정파일입니다.
+ectd2 key/value store 서버를 구성하기 위한 CoreOS 설정파일입니다.
 
 # Setup
 ## Git clone
