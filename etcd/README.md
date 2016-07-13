@@ -40,7 +40,7 @@ DNS 및 GATEWAY, 클러스터로 구성할 아이피 및 클러스터 이름을 
 
 **CLUSTER2_NAME**=Cluster Node 세번째 장비의 이름
 
-**TIMEZONE**==CoreOS가 시스템 Timezone
+**TIMEZONE**=CoreOS가 시스템 Timezone
 
 **DEVICE**=CoreOS가 설치될 Device (default : /dev/sda)
 
